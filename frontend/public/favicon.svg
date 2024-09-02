@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FileBox Icon</title>
+    <g id="FileBox-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#4299E1" x="0" y="0" width="100" height="100" rx="20"></rect>
+        <path d="M30,20 L70,20 C75.5228475,20 80,24.4771525 80,30 L80,70 C80,75.5228475 75.5228475,80 70,80 L30,80 C24.4771525,80 20,75.5228475 20,70 L20,30 C20,24.4771525 24.4771525,20 30,20 Z M35,30 C32.790861,30 31,31.790861 31,34 L31,66 C31,68.209139 32.790861,70 35,70 L65,70 C67.209139,70 69,68.209139 69,66 L69,34 C69,31.790861 67.209139,30 65,30 L35,30 Z" id="Folder" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

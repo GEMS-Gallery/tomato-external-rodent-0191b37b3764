@@ -1,0 +1,13 @@
+type Time = int;
+service : {
+  getFiles: () ->
+   (vec
+     record {
+       fileType: text;
+       id: nat;
+       name: text;
+       size: nat;
+       uploadTime: Time;
+     }) query;
+  uploadFile: (text, blob, text) -> (nat);
+}
